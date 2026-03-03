@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tariq</h1>
+<h1 align="center">Hi 👋, I'm Tariq Ahmadzai</h1>
 <h3 align="center">Full‑Stack Developer | UI/UX Enthusiast</h3>
 
 <p align="center">
@@ -7,16 +7,17 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 I’m currently working on **Full‑Stack Web Applications**
-- 🌱 I’m learning **Advanced Frontend & Backend frameworks**
-- 👯 I’m looking to collaborate on **Open Source & Full‑Stack Projects**
+## 🚀 About Me
+- 🎯 Passionate about building **scalable, maintainable web applications**
+- 🔭 Currently working on **Full‑Stack Web Applications & ERP Systems**
+- 🌱 Exploring **advanced frontend/backend frameworks** and **DevOps practices**
+- 👯 Open to collaborating on **Open Source & Marketplace Platforms**
 - 💬 Ask me about **React, Node.js, Laravel, Flutter, Databases**
-- 📫 How to reach me: **tariqjjj111@gmail.com**
+- 📫 Reach me at: **tariqjjj111@gmail.com**
 
 ---
 
-### 🛠️ Languages and Tools
+## 🛠️ Tech Stack
 
 <p align="center">
   <!-- Frontend -->
@@ -31,7 +32,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TariqKingCoder&show_icons=true&theme=radical" alt="GitHub stats" />
@@ -47,9 +48,14 @@
 
 ---
 
-### 🌐 Connect with Me
+
+## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/tariq-ahmadzai"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-
   <a href="https://github.com/TariqKingCoder"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
+
+---
+
+## 💡 Random Dev Quote
+> "Programs must be written for people to read, and only incidentally for machines to execute." – Harold Abelson
