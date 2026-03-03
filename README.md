@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tariq Ahmadzai</h1>
-<h3 align="center">Full‑Stack Developer | UI/UX Enthusiast</h3>
+<h3 align="center">Full‑Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TariqKingCoder&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
@@ -21,38 +21,9 @@
 
 ### Programming Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,php,java,python,dart,flutter,react,laravel,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,jquery,js,php,dart,flutter,react,redux,laravel,nodejs,express,mongodb,mysql,sqlite,postgres,redis,github,git" />
 </p>
 
-### Frontend Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,jquery,nextjs" />
-</p>
-
-### Backend & Middleware
-<p>
-  <img src="https://skillicons.dev/icons?i=nestjs,redux,rabbitmq,nginx" />
-</p>
-
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,redis" />
-</p>
-
-### Cloud & Hosting
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,digitalocean" />
-</p>
-
-### CI/CD & DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=github,gitlab,git,githubactions,jenkins,docker,kubernetes,terraform" />
-</p>
-
-### Testing & Monitoring
-<p>
-  <img src="https://skillicons.dev/icons?i=cypress,grafana,sonarqube,jira" />
-</p>
 
 ---
 
