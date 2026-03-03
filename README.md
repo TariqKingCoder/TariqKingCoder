@@ -37,9 +37,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TariqKingCoder&theme=radical" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TariqKingCoder&layout=compact&theme=radical" alt="Top languages" />
-</p>
 
 ---
 
