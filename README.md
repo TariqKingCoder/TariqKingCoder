@@ -19,15 +19,39 @@
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,js,jquery,react" />
-  <br/>
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,wordpress,dart,flutter" />
-  <br/>
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+### Programming Languages & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,php,java,python,dart,flutter,react,laravel,nodejs,express" />
+</p>
+
+### Frontend Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,tailwind,jquery,nextjs" />
+</p>
+
+### Backend & Middleware
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,redux,rabbitmq,nginx" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres,redis" />
+</p>
+
+### Cloud & Hosting
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,digitalocean" />
+</p>
+
+### CI/CD & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=github,gitlab,git,githubactions,jenkins,docker,kubernetes,terraform" />
+</p>
+
+### Testing & Monitoring
+<p>
+  <img src="https://skillicons.dev/icons?i=cypress,grafana,sonarqube,jira" />
 </p>
 
 ---
